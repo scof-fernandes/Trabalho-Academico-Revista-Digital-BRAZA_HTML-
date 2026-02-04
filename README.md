@@ -3,8 +3,8 @@
 
 Este projeto demonstra proficiência em desenvolvimento front-end ao adaptar uma revista impressa para o ambiente web. O foco principal foi a aplicação de HTML5 semântico e CSS3 avançado para criar uma experiência de leitura digital fluida e moderna.
 
-##  Links Úteis
-**[BRAZA]( https://scof-fernandes.github.io/Trabalho-Academico-Revista-Digital-BRAZA_HTML/)**
+##  Acesse o Site Online
+**[Revista Digital BRAZA]( https://scof-fernandes.github.io/Trabalho-Academico-Revista-Digital-BRAZA_HTML/)**
 
 ##  Demonstração Visual
 Aqui você pode ver a fluidez da navegação e o layout adaptável do site em funcionamento.
@@ -26,14 +26,12 @@ Links externos e conteúdos complementares são abertos na mesma guia, mantendo 
 - **Flexbox & CSS Grid:** Arquitetura de layout responsiva e dinâmica.
 - **Design Editorial:** Tipografia pareada (Google Fonts) e foco em UX.
 
-##  Destaques
+##  destaques
 - **Navegação Persistente:** Uso de `position: sticky` para sumário lateral.
 - **Layout Adaptável:** Grid estruturado para transpor o design de revista para a web.
 - **Organização:** Código limpo, comentado e fácil de fazer manutenção.
-
-##  Autenticidade
-O site representa a versão digital de uma revista criada por um estudante de publicidade. No repositório, disponibilizo a revista original para fins de comparação, comprovando minha autonomia no desenvolvimento do código e minha liberdade criativa na adaptação do layout físico para o digital.
+- **Versão Mobile:** Desenvolvido com técnicas de design responsivo, o projeto oferece navegação fluida e acesso integral ao conteúdo tanto em desktops quanto em smartphones
 
 ---
-**Desenvolvido por Stefany**
+**Desenvolvido por Stefany Coelho Fernandes**
 
