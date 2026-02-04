@@ -403,3 +403,83 @@ footer {
     text-transform: uppercase;
     font-size: 0.9em;
 }
+
+/* --- ADIÇÕES PARA RESPONSIVIDADE (MOBILE) --- */
+
+/* 1. Ajuste Global de Imagens e Layout */
+@media (max-width: 1024px) {
+    .layout-leitura {
+        flex-direction: column; /* Empilha o sumário sobre o conteúdo */
+        width: 92%;
+        gap: 20px;
+    }
+
+    .sumario-lateral {
+        flex: none;
+        width: 100%;
+        position: relative; /* Remove o sticky no mobile para não atrapalhar */
+        top: 0;
+        border-right: none;
+        border-bottom: 1px solid #eee;
+        padding-right: 0;
+        padding-bottom: 20px;
+    }
+
+    .conteudo-principal {
+        padding: 20px; /* Reduz padding em telas menores */
+    }
+}
+
+@media (max-width: 768px) {
+    /* Ajustes de Tipografia */
+    header {
+        flex-direction: column;
+        text-align: center;
+        gap: 10px;
+    }
+
+    .frase-efeito {
+        font-size: 0.85em;
+    }
+
+    .conteudo-principal h2 {
+        font-size: 1.5em;
+        display: block; /* Ocupa a linha toda no mobile */
+    }
+
+    .citacao {
+        font-size: 1.1em;
+        margin: 25px 0;
+    }
+
+    /* Ajuste de Imagens para Celular */
+    figure img {
+        max-width: 100%; /* No celular, usamos a largura total para melhor visibilidade */
+    }
+
+    /* Grid de Notícias (se houver no rodapé) */
+    .noticias-grid {
+        grid-template-columns: 1fr; /* Uma coluna só no celular */
+    }
+
+    /* Ajuste dos anúncios */
+    .anuncio-in-artigo {
+        width: 100%;
+    }
+}
+
+/* 2. Melhoria no Scroll (Opcional, mas recomendado) */
+html {
+    scroll-behavior: smooth;
+}
+
+/* 3. Ajuste de toque para os links do sumário no Mobile */
+@media (max-width: 768px) {
+    .sumario-lateral a {
+        padding: 12px 10px; /* Área de clique maior para o dedo */
+        background: #f4fcf2;
+        margin-bottom: 5px;
+        border-radius: 4px;
+    }
+}
+
