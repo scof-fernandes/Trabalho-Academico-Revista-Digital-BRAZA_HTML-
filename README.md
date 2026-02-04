@@ -3,9 +3,8 @@
 
 Este projeto demonstra proficiência em desenvolvimento front-end ao adaptar uma revista impressa para o ambiente web. O foco principal foi a aplicação de HTML5 semântico e CSS3 avançado para criar uma experiência de leitura digital fluida e moderna.
 
- ## Links Úteis
- *   **[ Acesse o Site Online](https://seu-usuario.github.io)**
- *   **[ Ver Revista Original (PDF)](SUA-PASTA/nome-do-arquivo.pdf)**
+ ## Visite o Site Online
+ *   **https://seu-usuario.github.io**
 
  ## Descrição Tecnica
 - **HTML5:** Estruturação semântica para SEO e acessibilidade.
@@ -13,7 +12,7 @@ Este projeto demonstra proficiência em desenvolvimento front-end ao adaptar uma
 - **Flexbox & CSS Grid:** Arquitetura de layout responsiva e dinâmica.
 - **Design Editorial:** Tipografia pareada (Google Fonts) e foco em UX.
   
-## destaques
+## Destaques
 - **Navegação Persistente:** Uso de position (sticky) para sumário lateral.
 - **Layout Adaptável:** Grid estruturado para transpor o design de revista para a web.
 - **Organização:** Código limpo, comentado e fácil de fazer manutenção.
