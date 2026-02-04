@@ -483,3 +483,36 @@ html {
     }
 }
 
+/* 1. Esconde o botão grande de rodapé no Computador */
+.footer-mobile-only {
+    display: none; 
+}
+
+/* 2. Regras para Telas Pequenas (Celular) */
+@media (max-width: 1024px) {
+    
+    /* Esconde o botão do menu lateral no celular (opcional) */
+    .sumario-lateral .btn-voltar {
+        display: none;
+    }
+
+    /* Mostra o botão grande no final da página apenas no celular */
+    .footer-mobile-only {
+        display: block;
+        text-align: center;
+        padding: 30px 0;
+        margin-top: 20px;
+    }
+
+    .btn-voltar-final {
+        display: inline-block;
+        background-color: #0a3103;
+        color: #fff !important;
+        padding: 15px 30px;
+        border-radius: 50px;
+        text-decoration: none;
+        font-weight: bold;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    }
+}
+
