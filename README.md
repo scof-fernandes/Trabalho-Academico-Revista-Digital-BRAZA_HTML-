@@ -1,7 +1,11 @@
-# Trabalho-Academico-Revista-Digital-BRAZA_HTML
 # Projeto Revista Ipiranga em Cena
+## Da evista Impressa ao Web Desingn Moderno
 
 Este projeto demonstra proficiência em desenvolvimento front-end ao adaptar uma revista impressa para o ambiente web. O foco principal foi a aplicação de HTML5 semântico e CSS3 avançado para criar uma experiência de leitura digital fluida e moderna.
+
+ ## Links Úteis
+ *   **[ Acesse o Site Online](https://seu-usuario.github.io)**
+ *   **[ Ver Revista Original (PDF)](SUA-PASTA/nome-do-arquivo.pdf)**
 
  ## Descrição Tecnica
 - **HTML5:** Estruturação semântica para SEO e acessibilidade.
