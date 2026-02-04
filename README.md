@@ -9,7 +9,9 @@ Este projeto demonstra proficiência em desenvolvimento front-end ao adaptar uma
 ##  Demonstração Visual
 Aqui você pode ver a fluidez da navegação e o layout adaptável do site em funcionamento.
 
-![Demonstração do Site](.gif)
+
+![site tudo grande](https://github.com/user-attachments/assets/5b6a3d6e-48dc-41b4-850e-892b23c62d63)
+
 
 ##  Comparativo: Impresso vs. Digital
 Abaixo, apresento a liberdade criativa utilizada para transpor o design editorial físico para o ambiente web.
