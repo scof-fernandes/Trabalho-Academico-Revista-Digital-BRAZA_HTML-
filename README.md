@@ -1,4 +1,4 @@
-# Trabalho-Academico-Revista-Digital-BRAZA_HTML-
+# Trabalho-Academico-Revista-Digital-BRAZA_HTML
 # Projeto Revista Ipiranga em Cena
 
 Este projeto demonstra proficiência em desenvolvimento front-end ao adaptar uma revista impressa para o ambiente web. O foco principal foi a aplicação de HTML5 semântico e CSS3 avançado para criar uma experiência de leitura digital fluida e moderna.
